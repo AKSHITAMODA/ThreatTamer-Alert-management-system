@@ -68,7 +68,7 @@ For support, feedback, or questions:
 📧 akshitamoda@gmail.com  
 🐙 [GitHub](https://github.com/AKSHITAMODA)
 
-Access Colab: https://colab.research.google.com/drive/1Q8vn_vUq8voXgFQrWHTrcvn2YQprBPRC?usp=sharing
+Access Colab Notebook: https://colab.research.google.com/drive/1Q8vn_vUq8voXgFQrWHTrcvn2YQprBPRC?usp=sharing
 --- 
 
 ## 📂 Project Structure
