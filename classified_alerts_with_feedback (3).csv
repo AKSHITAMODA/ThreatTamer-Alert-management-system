@@ -1,0 +1,3 @@
+timestamp,src_ip,dest_ip,alert_type,port,severity,prediction,confidence,result,final_result,analyst_feedback
+2025-07-26 11:00,192.168.1.10,10.0.0.5,Port Scan,22,High,0,0.31,False Positive ❌,False Positive ❌ (Low Confidence),Incorrect
+2025-07-26 11:01,10.0.0.2,192.168.1.1,Failed Login,443,Medium,1,0.67,True Positive ✅,False Positive ❌ (Low Confidence),Incorrect

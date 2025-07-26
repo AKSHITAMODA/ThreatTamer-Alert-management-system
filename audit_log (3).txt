@@ -1,0 +1,10 @@
+[2025-07-26 08:28:24.402214] Alert: Port Scan | IP: 192.168.1.10 | Prediction: False Positive ❌ (Rule) | Confidence: 0.41
+[2025-07-26 08:28:24.402367] Alert: Failed Login | IP: 10.0.0.2 | Prediction: True Positive ✅ | Confidence: 0.53
+[2025-07-26 08:34:59.082939] Alert: Port Scan | IP: 192.168.1.10 | Prediction: False Positive ❌ (Rule) | Confidence: 0.41
+[2025-07-26 08:34:59.083100] Alert: Failed Login | IP: 10.0.0.2 | Prediction: True Positive ✅ | Confidence: 0.53
+[2025-07-26 10:39:15.246382] Alert: Port Scan | IP: 192.168.1.10 | Prediction: False Positive ❌ (Low Confidence) | Confidence: 0.31
+[2025-07-26 10:39:15.246477] Alert: Failed Login | IP: 10.0.0.2 | Prediction: False Positive ❌ (Low Confidence) | Confidence: 0.67
+[2025-07-26 10:40:21.039645] Alert: Port Scan | IP: 192.168.1.10 | Prediction: False Positive ❌ (Low Confidence) | Confidence: 0.31
+[2025-07-26 10:40:21.039779] Alert: Failed Login | IP: 10.0.0.2 | Prediction: False Positive ❌ (Low Confidence) | Confidence: 0.67
+[2025-07-26 10:51:55.762710] Alert: Port Scan | IP: 192.168.1.10 | Prediction: False Positive ❌ (Low Confidence) | Confidence: 0.31
+[2025-07-26 10:51:55.762807] Alert: Failed Login | IP: 10.0.0.2 | Prediction: False Positive ❌ (Low Confidence) | Confidence: 0.67
